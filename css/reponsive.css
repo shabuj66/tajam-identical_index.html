@@ -1,0 +1,567 @@
+@media (max-width: 500px){
+    .middle-icon-text {
+        margin-left: 0px !important;
+    }
+    .footer-middle h4{
+        margin-left: -60px;  
+
+    }
+   .footer-right h4 {
+        margin-left: 20px;
+        padding-bottom: 0px !important;       
+    }
+   
+    .footer-right {
+        text-align: left !important;
+    }  
+}
+@media (max-width: 520px){
+    .banner-text h1 {
+        font-size: 22px !important;
+    }
+    .banner-text p {
+        padding: 40px 50px !important;
+    }
+    .tes-img-slide img{
+        width: 140px !important;
+        height: 140px !important;
+        line-height: 140px !important;
+        margin: auto;
+       
+    }
+    .footer-left p {
+        text-align: center;
+        padding: 0px 30px 0px 30px !important;
+    }
+    .footer-right input {
+        display: none;
+       
+       
+    }
+    .btn-custom {
+        display: none;;
+    }
+
+}
+@media (max-width: 575.98px) { 
+    .navbar-nav {        
+        text-align: center;
+        /* background-color: rgb(24, 17, 58, 0.7); */
+    }
+    .navbar-toggler-icon {       
+        color: #ffffff;
+    }
+    .navbar-light .navbar-toggler {       
+        border-color: #ffffff;
+        background: #ffffff;
+    }
+    .banner-text {        
+        padding-top: 110px;
+        padding-bottom: 120px;
+    }
+    .slick-dots {       
+        bottom: 65px;
+        left: 32%;
+    }
+    .banner-text p {       
+        padding: 40px 80px;
+       
+    }
+    .banner-text h1{
+        font-size: 32px;
+    }
+    .banner-text a {   
+        display: block;    
+        width: 100%;       
+    }
+    .banner-text h1::after {        
+        top: 55px;
+       
+    }
+    #about-part {
+        padding: 40px 0;
+    }
+    .about-text h2 {        
+        text-align: center;
+        padding-top: 20px;
+    }
+    .about-text p {
+        padding-bottom: 10px;
+        
+    }
+    .about-text a {       
+        text-align: center;
+        width: 100%;
+    }
+    #video-part {        
+        padding: 120px 0;
+       
+    }
+    .service-prd img {
+        padding-top: 45px;
+        padding-bottom: 30px;     
+    }
+    #team-member-part {       
+        padding: 50px 0;
+    }
+    .team-memeber-footer a {       
+        width: 100%;
+    }
+    #works-part {
+        padding: 50px 0;
+    }
+    .works-button a {     
+        margin-top: 50px;
+        width: 100%;
+    }
+    /* .tes-img-slide {
+        width: 300px;      
+    } */
+    #testemonial-part {       
+        padding: 50px 0;
+    }
+    .testemonail-text i {
+        font-size: 35px;
+        padding: 35px;
+    }
+    .testemonail-text p {
+        font-size: 14px;     
+        padding: 0 70px;       
+    }
+    .a-left{
+        display: none !important;
+    }
+    .a-right{
+        display: none !important;
+    }
+    .contact-from-left h3{
+        text-align: center;
+        margin-top: 35px; 
+    }
+    #contact-part {
+        padding: 50px 0;
+    }
+    .btn-s{
+        width: 100%;
+    }
+    .contact-from-right h3{
+        text-align: center;
+        margin-top: 35px;   
+
+    }
+    #footer-part {       
+        padding: 50px 0;
+        
+    }
+   .footer-left{
+        text-align: center;
+    }
+    .footer-left p {        
+        padding: 0px 20px 0px 20px;
+        line-height: 1.7rem;
+    }  
+   .footer-middle h4{
+       text-align: center;
+       padding: 20px 0;
+   }
+   .middle-icon-text{
+    margin-left: 120px;
+   }
+  .footer-right h4 {
+      padding-top: 20px;    
+      padding-bottom: 20px;
+      text-align: center;
+  }
+  .subscribe-form {
+    margin-left: 140px !important;
+    padding-bottom: 20px !important;
+  }
+  .btn-custom {
+    margin-left: 10px;
+}
+  .footer-right ul{  
+      text-align: center;
+
+   }
+   .footer-bottom-left ul{
+    text-align: center;
+
+}
+.footer-bottom-right p{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 13px;
+}
+.works-button a {     
+    margin-top: 50px;
+    width: 100%;
+}
+#footer-part {       
+    padding: 50px 0;
+    
+}
+.footer-middle{
+    margin-left: 50px;
+}
+.footer-middle h4, .footer-right h4 {        
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+.footer-middle h4 {       
+    padding-bottom: 30px;
+    text-align: center;
+}
+.footer-left p {        
+    padding: 0px 30px 0px 0px;
+    
+}
+.footer-right{
+    text-align: center;
+}
+.subscribe-form {
+    margin-left: 190px;
+    padding-bottom: 20px;
+}
+.footer-right ul li {       
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+   
+}
+
+   
+    
+    
+    
+
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .navbar-nav {        
+        text-align: center;
+        /* background-color: rgb(24, 17, 58, 0.7); */
+    }
+    .navbar-toggler-icon {       
+        color: #ffffff;
+    }
+    .navbar-light .navbar-toggler {       
+        border-color: #ffffff;
+        background: #ffffff;
+    }
+    .banner-text {        
+        padding-top: 140px;
+        padding-bottom: 140px;
+    }
+    .banner-text a {   
+        display: block;    
+        width: 100%;       
+    }
+    .slick-dots {       
+        bottom: 65px;
+        left: 32%;
+    }
+    .banner-text p {       
+        padding: 40px 80px;
+       
+    }
+    .banner-text h1{
+        font-size: 32px;
+    }
+    .banner-text h1::after {        
+        top: 55px;
+       
+    }
+    .about-text h2 {        
+        text-align: center;
+        padding-top: 20px;
+    }
+    .about-text p {        
+        padding-bottom: 15px;
+        
+    }
+    .about-text a {       
+        text-align: center;
+        width: 100%;
+    }
+    #video-part {        
+        padding: 140px 0;
+        
+    }
+    .service-prd img {
+        padding-top: 35px;
+        padding-bottom: 25px;        
+    }
+    #team-member-part {       
+        padding: 50px 0;
+    }
+    .team-memeber-footer a {       
+        width: 100%;
+    }
+    #works-part {
+        padding: 50px 0;
+    }
+    .works-button a {     
+        margin-top: 50px;
+        width: 100%;
+    }
+    #testemonial-part {       
+        padding: 50px 0;
+    }
+    .testemonail-text i {
+        font-size: 35px;
+        padding: 35px;
+    }
+    .testemonail-text p {
+        font-size: 14px;     
+        padding: 0 70px;       
+    }
+    .a-left {        
+        top: 83.5%;
+        left: 15%;              
+    }
+    .a-right {        
+        top: 84.5%;
+        right: 14%;
+        
+    }
+    #contact-part {
+        padding: 50px 0;
+    }
+  
+    .btn-s{
+        width: 100%;
+    }
+    .contact-from-right h3{
+        text-align: center;
+        margin-top: 35px;   
+
+    }
+    #footer-part {       
+        padding: 50px 0;
+        
+    }
+   .footer-left{
+        text-align: center;
+    }
+    .footer-left p {        
+        padding: 0px 20px 0px 20px;
+        line-height: 1.7rem;
+    }  
+   .footer-middle h4{
+       text-align: center;
+       padding: 20px 0;
+   }
+   .middle-icon-text{
+    margin-left: 120px;
+   }
+  .footer-right h4 {
+      padding-top: 20px;    
+      padding-bottom: 20px;
+      text-align: center;
+  }
+  .subscribe-form {
+    margin-left: 100px !important;
+    padding-bottom: 20px !important;
+  }
+  .footer-right ul{  
+      text-align: center;
+
+   }
+   .footer-bottom-left ul{
+    text-align: center;
+
+}
+.footer-bottom-left ul li a {   
+    font-size: 13px;
+}
+.footer-bottom-right p{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 13px;
+}
+.works-button a {     
+    margin-top: 50px;
+    width: 100%;
+}
+#footer-part {       
+    padding: 50px 0;
+    
+}
+.footer-middle{
+    margin-left: 50px;
+}
+.footer-middle h4, .footer-right h4 {        
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+.footer-middle h4 {       
+    padding-bottom: 30px;
+    text-align: center;
+}
+.footer-left p {        
+    padding: 0px 30px 0px 0px;
+    
+}
+.footer-right{
+    text-align: center;
+}
+.subscribe-form {
+    margin-left: 190px;
+    padding-bottom: 20px;
+}
+.footer-right ul li {       
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+   
+}
+
+   
+
+    
+
+
+
+}
+
+
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .navbar-nav {        
+        text-align: center;
+        /* background: rgb(24, 17, 58, 0.7); */
+    }
+    .navbar-toggler-icon {       
+        color: #ffffff;
+    }
+    .navbar-light .navbar-toggler {       
+        border-color: #ffffff;
+        background: #ffffff;
+    }
+    .banner-text {        
+        padding-top: 140px;
+        padding-bottom: 140px;
+    }
+    .slick-dots {       
+        bottom: 65px;
+        left: 37%;
+    }   
+
+    .about-text h2 {        
+        text-align: center;
+        padding-top: 20px;
+    }
+    .about-text p {        
+        padding-bottom: 15px;
+        
+    }
+    .about-text a {       
+        text-align: center;
+        width: 100%;
+    }
+    #video-part {        
+        padding: 140px 0;
+        
+    }
+    .service-prd img {
+        padding-top: 45px;
+        padding-bottom: 30px;        
+    }
+    #team-member-part {       
+        padding: 50px 0;
+    }
+    .team-memeber-footer a {       
+        width: 100%;
+    }
+    .team-memeber-footer a {        
+        width: 100%;
+    }
+    #works-part {
+        padding: 50px 0;
+    }
+    .works-button a {     
+        margin-top: 50px;
+        width: 100%;
+    }
+    #testemonial-part {       
+        padding: 50px 0;
+    }
+    .testemonail-text i {
+        font-size: 35px;
+        padding: 35px;
+    }
+    .testemonail-text p {
+        font-size: 14px;     
+        padding: 0 70px;       
+    }
+    .testemonail-text h4 {      
+        padding-top: 35px;
+    }
+    .a-left {
+        top: 82.5%;
+        left: 15%;
+    }
+    .a-right {
+        top: 83.5%;
+        right: 14%;
+    }
+    #contact-part {
+        padding: 50px 0;
+    }
+  
+    .btn-s{
+        width: 100%;
+    }
+    .contact-from-right h3{
+        text-align: center;
+        margin-top: 35px;   
+
+    }
+    #footer-part {       
+        padding: 50px 0;
+        
+    }
+    .footer-middle{
+        margin-left: 50px;
+    }
+    .footer-middle h4, .footer-right h4 {        
+        padding-bottom: 25px;
+        padding-top: 25px;
+    }
+    .footer-middle h4 {       
+        padding-bottom: 30px;
+        text-align: center;
+    }
+    .footer-left p {        
+        padding: 0px 30px 0px 0px;
+        
+    }
+    .footer-right{
+        text-align: center;
+    }
+    .subscribe-form {
+        margin-left: 190px;
+        padding-bottom: 20px;
+    }
+    .footer-right ul li {       
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+       
+    }
+
+
+   
+
+ }
+
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) { }
+
+
+@media (min-width: 1200px) {  
+
+}
